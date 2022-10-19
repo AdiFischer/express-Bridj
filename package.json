@@ -1,0 +1,24 @@
+{
+  "name": "express-bridj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practice.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdiFischer/express-Bridj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdiFischer/express-Bridj/issues"
+  },
+  "homepage": "https://github.com/AdiFischer/express-Bridj#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
